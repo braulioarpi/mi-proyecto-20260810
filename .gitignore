@@ -1,0 +1,25 @@
+# Archivos de configuración
+.env
+.env.local
+.env.*.local
+
+# Dependencias
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Documentación generada (opcional)
+Resumen/
+
+# IDE
+.vscode/
+.idea/
