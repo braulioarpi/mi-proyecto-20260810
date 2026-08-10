@@ -1,0 +1,35 @@
+================================================================================
+RESUMEN DE DOCUMENTACIÓN GENERADA
+================================================================================
+
+Fecha de generación: 2026-08-10 22:15:49
+Total archivos procesados: 10
+Total líneas escritas: 341
+Número de partes generadas: 1
+
+--------------------------------------------------------------------------------
+ARCHIVOS PROCESADOS:
+--------------------------------------------------------------------------------
+
+  sin_extensión: 4 archivos
+  .txt: 1 archivos
+  .yml: 1 archivos
+  .json: 1 archivos
+  .sql: 1 archivos
+  .js: 1 archivos
+  .py: 1 archivos
+
+--------------------------------------------------------------------------------
+LISTA COMPLETA DE ARCHIVOS:
+--------------------------------------------------------------------------------
+
+  20260810/Dockerfile
+  20260810/app.py
+  20260810-node-psql/.dockerignore
+  20260810-node-psql/.env
+  20260810-node-psql/Dockerfile
+  20260810-node-psql/docker-compose.yml
+  20260810-node-psql/init.sql
+  20260810-node-psql/package.json
+  20260810-node-psql/src/index.js
+  Resumen/Parte1.txt
